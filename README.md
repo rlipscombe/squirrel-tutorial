@@ -27,7 +27,9 @@ Both this tutorial and the squirrel language are MIT-licensed. This means that I
 
 This tutorial supports automatically running squirrel code and embedding the output in the markdown files.
 
-The "snippet markers" look like this:
+The "snippet markers" must be in column 1 of the markdown file, and look like this:
 
     [//]: # (sq path/to.nut)
     [//]: # (END)
+
+This is implemented in `Rakefile`. To update the snippets (in-place), run `rake`.
