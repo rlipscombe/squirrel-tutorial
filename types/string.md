@@ -32,7 +32,7 @@ a = I'm a wonderful string
 b = I'm a verbatim string\n
 c = I'm a "string"
 
-multiline =
+multiline = 
         this is a multiline string
         it will "embed" all the new line characters
 
