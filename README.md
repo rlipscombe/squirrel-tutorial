@@ -10,6 +10,7 @@ Note that the Electric Imp platform uses a slightly modified form of Squirrel 3.
 
 - [Compiling Squirrel](compiling-squirrel.md)
 - [Hello World](hello-world.md)
+- [Variables](variables.md)
 
 ## Resources
 
